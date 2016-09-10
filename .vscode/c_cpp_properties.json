@@ -20,7 +20,9 @@
             "name": "Win32",
             "includePath": [
                 "c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
-                "D:/dev/Projects/game/vulkan/"
+                "d:/dev/Projects/game/vulkan/",
+                "d:/dev/Projects/game/includes",
+                "D:/dev/lib/glfw-3.2/include"
                 ],
             "browse" : {
                 "limitSymbolsToIncludedHeaders" : true,
